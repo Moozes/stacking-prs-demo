@@ -1,8 +1,16 @@
 export default function Home() {
   return (
-    <div className="flex items-center justify-center h-svh">
-      THIS IS THE HOME PAGE
+    <div className="container m-auto">
+      <div className="p-3 border-b border-white">Home</div>
+      <div>THIS IS THE HOME PAGE</div>
     </div>
   );
 }
+
+
+
+
+
+
+
 
