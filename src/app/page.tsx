@@ -11,6 +11,9 @@ export default function Home() {
       <div>
         Hello Moussa, THIS IS THE HOME PAGE
       </div>
+      <div>
+        This is a subtitle Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa totam neque in reprehenderit qui amet esse aperiam. Sed praesentium voluptatem itaque assumenda deserunt, illum, placeat molestias voluptates aspernatur dolorem aut nam quas, veritatis a blanditiis qui corrupti tempora ea doloribus nihil voluptatum. Repellendus recusandae hic numquam, minima aliquid nisi! Tenetur!
+      </div>
     </div>
   );
 }
